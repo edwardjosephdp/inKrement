@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../jsApp/build/classes/kotlin/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../jsApp/build/externals/inKrement-jsApp/src" />
+    <content url="file://$MODULE_DIR$/../../../jsApp/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../jsApp/src/main/kotlin" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jsApp/src/main/resources" type="kotlin-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="module" module-name="inKrement.shared.commonMain" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="inKrement.shared.jsMain" />
+    <orderEntry type="module" module-name="inKrement.shared.commonMain" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-html-js:klib:0.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-react-router-dom:klib:5.2.0-pre.148-kotlin-1.4.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-html-common:0.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-extensions:klib:1.0.1-pre.148-kotlin-1.4.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-react:17.0.2-pre.154-kotlin-1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-react-dom:17.0.2-pre.154-kotlin-1.5.0" level="project" />
+  </component>
+</module>
